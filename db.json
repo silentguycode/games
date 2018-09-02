@@ -1,18 +1,24 @@
-[
-    {
-        "name": "World of Warcraft",
-        "programmer": "Blizzard"
-    },
-    {
-        "name": "League of Legends",
-        "programmer": "Riot Games"
-    },
-    {
-        "name": "Diablo",
-        "programmer": "David Brevik"
-    },
-    {
-        "name": "Doom",
-        "programmer": "Billy Ethan Khan"
-    }
-]
+{
+    "gamesData": [
+        {
+            "id": 111,
+            "name": "World of Warcraft",
+            "programmer": "Blizzard"
+        },
+        {
+            "id": 222,
+            "name": "League of Legends",
+            "programmer": "Riot Games"
+        },
+        {
+            "id": 333,
+            "name": "Diablo",
+            "programmer": "David Brevik"
+        },
+        {
+            "id": 444,
+            "name": "Doom",
+            "programmer": "Billy Ethan Khan"
+        }
+    ]
+}
